@@ -1,8 +1,10 @@
 import React from 'react';
+import Ticker from './components/Ticker';
 
 function App() {
   return (
     <div className="App">
+      <Ticker />
     </div>
   );
 }
